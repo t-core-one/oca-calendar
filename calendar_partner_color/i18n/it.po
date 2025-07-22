@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-20 17:26+0000\n"
+"PO-Revision-Date: 2025-07-22 17:25+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -19,25 +19,25 @@ msgstr ""
 #. module: calendar_partner_color
 #: model:ir.model,name:calendar_partner_color.model_calendar_event
 msgid "Calendar Event"
-msgstr ""
+msgstr "Evento calendario"
 
 #. module: calendar_partner_color
 #: model:ir.model.fields,field_description:calendar_partner_color.field_calendar_event__color
 #: model:ir.model.fields,field_description:calendar_partner_color.field_res_partner__color
 #: model:ir.model.fields,field_description:calendar_partner_color.field_res_users__color
 msgid "Color Index"
-msgstr ""
+msgstr "Indice colore"
 
 #. module: calendar_partner_color
 #: model:ir.model,name:calendar_partner_color.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "Contatto"
 
 #. module: calendar_partner_color
 #: model:ir.model.fields,field_description:calendar_partner_color.field_calendar_event__display_name
 #: model:ir.model.fields,field_description:calendar_partner_color.field_res_partner__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Nome visualizzato"
 
 #. module: calendar_partner_color
 #: model:ir.model.fields,field_description:calendar_partner_color.field_calendar_event__id
@@ -49,4 +49,4 @@ msgstr "ID"
 #: model:ir.model.fields,field_description:calendar_partner_color.field_calendar_event____last_update
 #: model:ir.model.fields,field_description:calendar_partner_color.field_res_partner____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Ultima modifica il"
